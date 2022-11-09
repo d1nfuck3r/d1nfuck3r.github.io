@@ -1,4 +1,4 @@
-source /$HOME/shikari.txt
+source $HOME/shikari.txt
 api=$api
 base=$base
 table=$table
